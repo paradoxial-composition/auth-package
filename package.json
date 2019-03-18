@@ -1,0 +1,24 @@
+{
+  "name": "auth-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EL BANI Othman",
+  "license": "MIT",
+  "description": "login/registration with password hashing using jwt",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paradoxial-composition/auth-package.git"
+  },
+  "keywords": [
+    "login",
+    "authentication",
+    "jwt"
+  ],
+  "bugs": {
+    "url": "https://github.com/paradoxial-composition/auth-package/issues"
+  },
+  "homepage": "https://github.com/paradoxial-composition/auth-package#readme"
+}
